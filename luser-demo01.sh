@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #This script display various information to the screen.
+#Beginner to advanced
 
 # Display 'Hello'
 echo 'Hello'
